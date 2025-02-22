@@ -1,11 +1,10 @@
-## Hello
+## 📖 Badhosts Initiative
+the BadHosts Initiative is a warning to people about shady hosting providers.
 
-We are Badhosts, and our goal is to provide you with a list of hosting providers that you should consider staying away from.
+## 📝 Contribute to the List
 
-As of 29/05/2024, we're actively maintaining the following projects.
+We rely on community-driven reports to maintain accuracy. If you’ve had a **bad experience** with a hosting provider, you can:  
 
-- Wiki
-- Main website
-- coming soon!
+**Submit a report** via [our website](https://badhosts.com).   
 
-This project is under development.
+⚠️ *We verify every report before listing a provider to ensure fairness and accuracy.*
